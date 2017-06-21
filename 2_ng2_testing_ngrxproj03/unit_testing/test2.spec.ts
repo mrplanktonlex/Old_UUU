@@ -1,3 +1,5 @@
+//GOAL: testing @Output() 
+
 import VoterComponent from './test2';
 
 fdescribe('voter suite', ()=>{
