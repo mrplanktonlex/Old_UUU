@@ -26,4 +26,5 @@ snippets.cson
         > .source.ts for typescript, .source.js for javascript (extension) files 
         > no comma between prefix n body
         > tab indented like python and NO {}
-        > prefix should be initials of the description eg. jd FOR jasmine describe. cannot use jdx or something else.
+        > prefix should be initials of the description eg. jd FOR jasmine describe. u can use jd, jdx, jdy, aa; but u 
+        cannot use je, etc. So make sure ur prefix works. (couldnt find the logic of naming prefixes; dun have time for that shit) 
