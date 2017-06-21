@@ -9,3 +9,21 @@ Remember:-
   Angular should be able to create an instance of ur component and get it to you (using testbed).
   
   
+snippets.cson
+
+'.source.ts':
+  'jasmine describe':
+    'prefix': 'jd'
+    'body': """
+      describe('', ()=>{
+        it('', ()=>{
+          expect().toBe();
+          });
+        });
+    """
+  
+  Note:- 
+        > .source.ts for typescript, .source.js for javascript (extension) files 
+        > no comma between prefix n body
+        > tab indented like python and NO {}
+        > prefix should be initials of the description eg. jd FOR jasmine describe. cannot use jdx or something else.
