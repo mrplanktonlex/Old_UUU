@@ -1,0 +1,16 @@
+ng test src/app/unit_testing/test2.spec.ts
+
+D:\js\Ang2\proj2\ngrxproj03>ng test src/app/unit_testing/test2.spec.ts
+Your global Angular CLI version (1.1.2) is greater than your local
+version (1.1.1). The local Angular CLI version is used.
+
+To disable this warning use "ng set --global warnings.versionMismatch=false".
+ 10% building modules 1/1 modules 0 active21 06 2017 13:41:35.140:INFO [karma]: Karma v1.7.0 server started at http://0.0.0.0:9876/
+21 06 2017 13:41:35.143:INFO [launcher]: Launching browser Chrome with unlimited concurrency
+21 06 2017 13:41:35.152:INFO [launcher]: Starting browser Chrome
+21 06 2017 13:41:50.905:INFO [Chrome 58.0.3029 (Windows 8 0.0.0)]: Connected on socket -jmmmvDO6vGM9H9XAAAA with id 65337413
+LOG: 'spec3 for @Output() executing .... '
+Chrome 58.0.3029 (Windows 8 0.0.0): Executed 2 of 10 SUCCESS (0 secs / 0.004 secs)
+Chrome 58.0.3029 (Windows 8 0.0.0): Executed 3 of 10 (skipped 7) SUCCESS (0.051 secs / 0.007 secs)
+
+D:\js\Ang2\proj2\ngrxproj03>
